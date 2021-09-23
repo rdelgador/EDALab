@@ -1,0 +1,3 @@
+/home/ricardo/Documentos/San Pa/EDA/Lab/repositorio/EDALab/build/CMakeFiles/rebuild_cache.dir
+/home/ricardo/Documentos/San Pa/EDA/Lab/repositorio/EDALab/build/CMakeFiles/cmake_test.dir
+/home/ricardo/Documentos/San Pa/EDA/Lab/repositorio/EDALab/build/CMakeFiles/edit_cache.dir
